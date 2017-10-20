@@ -19,7 +19,7 @@ public class BoscoBot
 
 	public String getGreeting()
 	{
-		return "Hello, my name is Saint John Bosco. Let's talk about Bosco Tech. First, what is your name?";
+		return "Hello, my name is osco bech. Let's talk about Bosco Tech. First, what is your name?";
 	}
 	public String getExitMessage()
 	{
